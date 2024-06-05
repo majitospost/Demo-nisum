@@ -1,0 +1,10 @@
+fileignoreconfig:
+- filename: src/main/resources/application.properties
+  checksum: 3bf746afee9a07320f0500c9cb9dd5e363c3f46611cdb16d0f7ac5e9f70ae739
+- filename: src/main/java/com/example/demo/util/JWTUtil.java
+  checksum: a6d96de8ea375985c62c968eadf7fbd244aaf6fc8eb916abbb073e482d7eb894
+- filename: src/main/java/com/example/demo/service/implementation/UserServiceImpl.java
+  checksum: c01ccea3189f424cef4b1be621edde5a3e4208d4c960c6477c156ef2c92bb917
+- filename: src/test/java/com/example/demo/service/UserServiceTest.java
+  checksum: 9fe8e3a12e7328d95a7c4099f81aa9d78d8abced5092a258957d60375c02d059
+version: ""
