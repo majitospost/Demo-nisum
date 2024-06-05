@@ -69,6 +69,8 @@ curl --request GET \
 curl --request DELETE \
   --url http://localhost:8080/api/users/{{userId}}
 ```
+# Open API (Swagger)
+Abrir el siguiente [enlace](http://localhost:8080/api/swagger-ui/index.html) para ver la UI de Swagger.
 
 # Pruebas unitarias
 Hay dos archivos de pruebas, uno para el servicio y otro para el controlador.
@@ -81,6 +83,3 @@ Hay dos archivos de pruebas, uno para el servicio y otro para el controlador.
 
 ![](guardar-modificar.png)
 ![](eliminar-listar.png)
-
-# Open API (Swagger)
-Abrir el siguiente [enlace](http://localhost:8080/api/swagger-ui/index.html) para ver la UI de Swagger.
