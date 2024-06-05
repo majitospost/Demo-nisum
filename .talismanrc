@@ -7,4 +7,6 @@ fileignoreconfig:
   checksum: c01ccea3189f424cef4b1be621edde5a3e4208d4c960c6477c156ef2c92bb917
 - filename: src/test/java/com/example/demo/service/UserServiceTest.java
   checksum: 9fe8e3a12e7328d95a7c4099f81aa9d78d8abced5092a258957d60375c02d059
+- filename: README.md
+  checksum: 717a8fd8b47f4cd6f20bb1e096a8a1cf976dffe09b48b0272604bd2d086b405a
 version: ""
