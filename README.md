@@ -16,6 +16,8 @@ git clone https://github.com/majitospost/Demo-nisum.git
 ```shell
 ./gradlew bootRun
 ```
+> [!NOTE]
+> No es necesario crear la base de datos, esta se creará automáticamente cuando se ejecute el programa.
 ## APIs
 
 ### Creando usuario
