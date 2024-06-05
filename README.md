@@ -76,4 +76,4 @@ Hay dos archivos de pruebas, uno para el servicio y otro para el controlador.
 ```
 
 # Open API (Swagger)
-Abrir el siguiente [enlace](http://localhost:8080/api/swagger-ui/index.html). para ver la UI de Swagger.
+Abrir el siguiente [enlace](http://localhost:8080/api/swagger-ui/index.html) para ver la UI de Swagger.
