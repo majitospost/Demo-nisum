@@ -31,7 +31,7 @@ git clone https://github.com/majitospost/Demo-nisum.git
 ```shell
 ./gradlew bootRun
 ```
-> [!NOTA]
+> [!NOTE]
 > No es necesario crear la base de datos, esta se creará automáticamente cuando se ejecute el programa.
 
 ## APIs
@@ -74,7 +74,7 @@ curl --request PUT \
 	]
 }'
 ```
-> [!NOTA]
+> [!NOTE]
 > Reemplazar {{userId}} por el UUID que devuelve el API anterior o el que se obtenga en el API GET
 
 ### Listando usuarios
@@ -88,7 +88,7 @@ curl --request GET \
 curl --request DELETE \
   --url http://localhost:8080/api/users/{{userId}}
 ```
-> [!NOTA]
+> [!NOTE]
 > Reemplazar {{userId}} por el UUID del usuario a eliminar
 
 # Open API (Swagger)
